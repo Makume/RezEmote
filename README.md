@@ -7,7 +7,7 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.0  | The AddOn RezEmote send a `/rez` emote on player death. <br>![Emote](https://github.com/Makume/HideActionBarPageSelector/blob/main/Images/with.png)|
+> | 1.0.0  | The AddOn RezEmote send a `/rez` emote on player death. <br>![Emote](https://github.com/Makume/RezEmote/blob/main/Images/Emote.png)|
 
 > [!NOTE]
 > # Information
